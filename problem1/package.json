@@ -1,0 +1,14 @@
+{
+  "name": "problem1",
+  "version": "1.0.0",
+  "description": "Problem 1 of XTern Bootcamp technical screening",
+  "main": "hellonode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matin Hormati",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.5.2"
+  }
+}

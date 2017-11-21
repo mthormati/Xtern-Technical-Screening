@@ -1,0 +1,14 @@
+https://google.com
+/calendar
+day
+year
+month
+BACK
+BACK
+FORWARD
+FORWARD
+https://reddit.com
+BACK
+FORWARD
+year
+/r/kittens/cats
